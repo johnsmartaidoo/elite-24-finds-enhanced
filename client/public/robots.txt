@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /api/
+
+Sitemap: https://elite24finds.manus.space/sitemap.xml
+
+# Crawl delay in seconds
+Crawl-delay: 1
+
+# Request rate
+Request-rate: 30/1m
